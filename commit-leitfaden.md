@@ -36,4 +36,4 @@ Gute Struktur und klare Commit-Nachrichten dienen dazu, eine klare Git-Geschicht
 - docu - für README- und Dokus-Updates
 - style - am meisten bei der Frontend-Entwicklung - für CSS-Änderungen
 
-Mehr über Conventional Commit - (hier)[https://www.conventionalcommits.org/en/v1.0.0/]
+Mehr über Conventional Commit - [hier](https://www.conventionalcommits.org/en/v1.0.0/)
