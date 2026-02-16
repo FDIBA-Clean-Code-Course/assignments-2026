@@ -8,5 +8,6 @@ In diesem Repo können Sie auch hilfreiche Materiale zu JavaScript/TypeScript, G
 
 Jeder Pull Request soll am besten möglichst viele Commits erhalten - Sie sollen regelmäßige und deskriptive Commits erstellen. Für Ihre Commits werden wir das Conventional-Commits-Format verwenden - für mehr Info schauen Sie bitte in die commit-leitfaden.md.
 
-Aufgabe 1 - Einführung in Git --> Repo
-Aufgabe 2 - Clean Code Basics --> Link
+## Aufgaben
+- Aufgabe 1 - Einführung in Git --> Repo
+- Aufgabe 2 - Clean Code Basics --> Link
