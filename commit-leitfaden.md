@@ -11,19 +11,19 @@ Wir werden nicht alle Teile eines Conventional-Commits verwenden - unsere Commit
 {tag}: nachricht
 
 Zum Beispiel:
-feat: Created an util function for calculating distances between two objects
-fix: Fixed an issue where object distances were not calculated correctly
-docu: Updated repo documentation
-style: Added a stylesheet for the home page
-refactor: Changed calculation formula for the distance util function
+- feat: Created an util function for calculating distances between two objects
+- fix: Fixed an issue where object distances were not calculated correctly
+- docs: Updated repo documentation
+- style: Added a stylesheet for the home page
+- refactor: Changed calculation formula for the distance util function
 
 Beispiele für schlechte Commits:
-fix
-fix fix
-fix fix fix
-Calc function progress made
-adjusted styles
-adjusted function
+- fix
+- fix fix
+- fix fix fix
+- Calc function progress made
+- adjusted styles
+- adjusted function
 
 Gute Struktur und klare Commit-Nachrichten dienen dazu, eine klare Git-Geschichte in unseren Projekten zu bauen.
 
@@ -33,7 +33,7 @@ Gute Struktur und klare Commit-Nachrichten dienen dazu, eine klare Git-Geschicht
 - fix - beschreibt ein Bugfix
 - chore - In meiner Praxis, verwende ich chore für Build-Fehler-Fixes, Lint-Fehler-Fixes etc. Das gilt auch in unserem Kurs.
 - refactor - beschreibt eine Funktionalität die umgeschrieben wurde, um sie zu verbessern
-- docu - für README- und Dokus-Updates
+- docs - für README- und Dokus-Updates
 - style - am meisten bei der Frontend-Entwicklung - für CSS-Änderungen
 
 Mehr über Conventional Commit - [hier](https://www.conventionalcommits.org/en/v1.0.0/)
