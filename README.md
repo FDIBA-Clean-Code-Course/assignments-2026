@@ -10,4 +10,4 @@ Jeder Pull Request soll am besten möglichst viele Commits erhalten - Sie sollen
 
 ## Aufgaben
 - Aufgabe 1 - Einführung in Git --> [Repo](https://github.com/FDIBA-Clean-Code-Course/git-einfuehrung)
-- Aufgabe 2 - Clean Code Basics --> Link
+- Aufgabe 2 - Clean Code Basics --> [Link](https://classroom.github.com/a/eG58weyl)
