@@ -121,6 +121,8 @@ Wie anderen Sprache - **if / else / else-if** und **switch** Konstruktionen für
 
 Für Schleifen - **for**, **while**, **do-while**
 
+Für Fehler-Behandlung - **try-catch-finally** (aber in JS können wir nur 1 Catch-Block haben; Finally-Block ist optional)
+
 ## Funktionen
 
 Es existieren zwei Ansätzen Funktionen zu deklarieren - normale Deklaration und Function-Expressions (aus Englisch)
