@@ -135,7 +135,7 @@ TypeScript ist ein Superset von JS, was bedeutet, dass jeder Code, der in JS val
 
 Die gesamte Validierung erfolgt nur während der Entwicklung. TypeScript wird zu JavaScript kompiliert, bevor es in den Browser geladen wird. Deshalb werden Laufzeit-Typfehler (Runtime-Errors) von TS nicht verhindert.
 
-TypeScript bietet uns die primitiven Typen string, number, boolean usw. an. Arrays werden mit [] definiert.
+TypeScript bietet uns die primitiven Typen string, number, boolean usw. an. Arrays werden mit [] definiert. Funktionen könne auch typisiert werden.
 
 ```ts
 const myNumber: number = 5;
@@ -144,6 +144,13 @@ const myString: string = 'hello';
 
 // Signifies an array 
 const myNumberArray: number[] = [1, 2, 3, 4, 5, 6];
+
+// TS can be used in function as well
+const isActive = (activeFlag: number): boolean => {
+    if activeFlag === '0' return false;
+    if activeFlaf === '1' return true;
+    return false; // any other return type besides boolean will result in a type error
+}
 ```
 
 In TS existieren zwei Arten, Objekte zu typisieren: Interfaces und Types. Interfaces beschreiben die Form eines Objekts und können über das Schlüsselwort extends erweitert werden. Types hingegen werden oft für Union-Types oder Aliase genutzt und können durch Intersections (&) kombiniert werden. Zudem existieren Utility-Types, die es uns erlauben, neue Typen aus bestehenden zu komponieren.
