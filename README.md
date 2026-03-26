@@ -13,6 +13,7 @@ Jeder Pull Request soll am besten möglichst viele Commits erhalten - Sie sollen
 - Aufgabe 2 - Clean Code Basics --> [Link](https://classroom.github.com/a/eG58weyl)
 - Aufgabe 3 - Refactoring mit TypeScript --> [Link](https://classroom.github.com/a/Y-uQZTLr)
 - Aufgabe 4 - Einführung in OOP mit Testing --> [Link](https://classroom.github.com/a/lS57aEH-)
+- Aufgabe 5 - Einführung in GitHub Actions --> [Link](https://classroom.github.com/a/joAH-m6l)
 
 
 ## Teams Meeting 19.03.26
