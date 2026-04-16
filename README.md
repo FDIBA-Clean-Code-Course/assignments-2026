@@ -16,5 +16,5 @@ Jeder Pull Request soll am besten möglichst viele Commits erhalten - Sie sollen
 - Aufgabe 5 - Einführung in GitHub Actions --> [Link](https://classroom.github.com/a/joAH-m6l)
 
 
-## Teams Meeting 19.03.26
-[Link](https://teams.microsoft.com/meet/34993309408282?p=4aQGOHZnJQzNFfH3Sx)
+## Teams Meeting 16.04.26 - Event Loop #1
+[Link](https://teams.microsoft.com/meet/349368062318582?p=Umyp3rBYSwgsPhUW7z)
