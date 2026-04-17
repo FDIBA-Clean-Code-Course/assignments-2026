@@ -14,6 +14,9 @@ Jeder Pull Request soll am besten möglichst viele Commits erhalten - Sie sollen
 - Aufgabe 3 - Refactoring mit TypeScript --> [Link](https://classroom.github.com/a/Y-uQZTLr)
 - Aufgabe 4 - Einführung in OOP mit Testing --> [Link](https://classroom.github.com/a/lS57aEH-)
 - Aufgabe 5 - Einführung in GitHub Actions --> [Link](https://classroom.github.com/a/joAH-m6l)
+- Aufgabe 6 - Letzte Aufgabe: Dependency Inversion --> [Link](https://classroom.github.com/a/RTf-xMQN)
+
+## Zusätzliche JS Vorlesungen in diesem Repo --> [Link](https://github.com/FDIBA-Clean-Code-Course/advanced-js-topics)
 
 
 ## Teams Meeting 16.04.26 - Event Loop #1
