@@ -19,5 +19,5 @@ Jeder Pull Request soll am besten möglichst viele Commits erhalten - Sie sollen
 ## Zusätzliche JS Vorlesungen in diesem Repo --> [Link](https://github.com/FDIBA-Clean-Code-Course/advanced-js-topics)
 
 
-## Teams Meeting 23.04.26 - Event Loop #2
-[Link](https://teams.microsoft.com/meet/316685778367735?p=7gkn6ZYY8VeGXGUmHN)
+## Teams Meeting 30.04.26 - Closures
+[Link](https://teams.microsoft.com/meet/390798461951158?p=zuM5tDMlY7o3ZWrqcm)
